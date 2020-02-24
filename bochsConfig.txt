@@ -10,7 +10,7 @@ floppy_bootsig_check: disabled=1
 # no floppya
 # no floppyb
 ata0: enabled=1, ioaddr1=0x1f0, ioaddr2=0x3f0, irq=14
-ata0-master: type=disk, mode=vpc, translation=auto, path="/home/speak/MyCode/github/Book/x86-Assembly-Real-To-Protected_Mode/testVM/testVVM.vhd", cylinders=1003, heads=12, spt=17, biosdetect=auto, model="Generic 1234"
+ata0-master: type=disk, mode=vpc, translation=auto, path="/home/speak/myCode/github/Book/x86-Assembly-Real-To-Protected_Mode/testVM/testVM.vhd", cylinders=1003, heads=12, spt=17, biosdetect=auto, model="Generic 1234"
 ata1: enabled=1, ioaddr1=0x170, ioaddr2=0x370, irq=15
 ata2: enabled=0
 ata3: enabled=0
