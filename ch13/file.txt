@@ -1,0 +1,3 @@
+this is txt file......, test user-appliacation function of reading file.
+                                                                -- SPeak Shen
+                                                                  2020.3.4
